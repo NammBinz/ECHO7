@@ -1,0 +1,65 @@
+# Unreal Engine generated data
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated data inside project plugins; plugin source, config, and content remain tracked
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE and local workspace files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.code-workspace
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+UpgradeLog*.htm
+
+# Compiler, linker, and temporary build files
+*.obj
+*.pch
+*.pdb
+*.iobj
+*.ipdb
+*.ilk
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+
+# Unreal Live Coding products
+*.patch_*
+*.lc.obj
+*.lc.lib
+*.lc.exp
+*.lc.response
+LiveCoding.json
+LiveCodingModules.txt
+
+# Generated cooker file-order data (keep other Build resources trackable)
+Build/*/FileOpenOrder/
+
+# Packaged output created outside Saved/
+/Windows/
+/WindowsNoEditor/
+/StagedBuilds/
+*.apk
+*.aab
+*.ipa
+
+# Operating-system junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
